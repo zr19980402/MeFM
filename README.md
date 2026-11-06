@@ -66,7 +66,7 @@ To save logs, checkpoints, and other generated files to a custom directory: --ou
 
 ## Examples
 
-The data presented in this manuscript are available for download at [examples](https://drive.google.com/file/d/17DYzwKyIsuCRKmJ7Bd-l_SBDrwXrKsFX/view?usp=drive_link_
+The data presented in this manuscript are available for download at [examples](https://drive.google.com/file/d/17DYzwKyIsuCRKmJ7Bd-l_SBDrwXrKsFX/view?usp=drive_link).
 
 ## Notes
 
