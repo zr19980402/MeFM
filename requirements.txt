@@ -1,0 +1,15 @@
+
+# For the CUDA 12.8 PyTorch wheel, install this before the remaining requirements:
+# python -m pip install torch==2.8.0 --index-url https://download.pytorch.org/whl/cu128
+
+# Core
+torch==2.8.0
+numpy
+scipy
+
+
+# Optional dependencies
+# gmsh
+# meshio
+# matplotlib
+# torch-geometric
