@@ -64,6 +64,10 @@ python evaluate_model.py \
 To force the regeneration of reference solutions during evaluation: --force-reference
 To save logs, checkpoints, and other generated files to a custom directory: --output-dir
 
+## Examples
+
+The data presented in this manuscript are available for download at [examples](https://drive.google.com/file/d/17DYzwKyIsuCRKmJ7Bd-l_SBDrwXrKsFX/view?usp=drive_link_
+
 ## Notes
 
 - Each experiment expects the mesh format, boundary-node conventions, loading-case structure, and FEM reference format specified in its own configuration files. Generate the required mesh by running:
